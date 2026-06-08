@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=250&section=header&text=Rajat%20Shrivastava&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=B.Tech%20Engineering%20|%20Full-Stack%20Developer&descAlignY=60&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=250&section=header&text=DRON%20Shrivastava&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=B.Tech%20Engineering%20|%20Full-Stack%20Developer&descAlignY=60&descAlign=50" />
 
 </div>
 
@@ -31,7 +31,7 @@
 ### 👨‍💻 **About Me**
 
 ```yaml
-name      : Rajat Shrivastava
+name      : DRON Shrivastava
 location  : India
 education : B.Tech Engineering (Year 2)
 role      : Full-Stack Developer | Backend Enthusiast
