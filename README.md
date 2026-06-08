@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=250&section=header&text=Dron%20Shrivastava&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=B.T[...]
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=250&section=header&text=Dron%20Shrivastava&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20|%20Backend%20Enthusiast&descAlignY=55">
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=667eea&center=true&vCenter=true&width=800&lines=🚀+Building+Digital+Solutions;💻+Full-Stack+Web+Deve[...]
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=667eea&center=true&vCenter=true&width=800&lines=🚀+Building+Digital+Solutions;💻+Full-Stack+Web+Developer;🎯+Turning+Ideas+Into+Code;🔥+Passionate+About+Technology)](https://github.com/Dron09Shrivastava)
 
 </div>
 
@@ -176,15 +176,15 @@ Forked Express.js framework for learning and experimenting with web framework ar
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dron09Shrivastava&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=f[...]
+<img src="https://github-readme-stats.vercel.app/api?username=Dron09Shrivastava&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=ffffff" alt="GitHub Stats">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dron09Shrivastava&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff" a[...]
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dron09Shrivastava&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff" alt="Top Languages">
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Dron09Shrivastava&theme=tokyonight&hide_border=true&background=0d1117&stroke=667eea&ring=667eea&fire=ff6b6b&currStreakLabel=667eea"[...]
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Dron09Shrivastava&theme=tokyonight&hide_border=true&background=0d1117&stroke=667eea&ring=667eea&fire=ff6b6b&currStreakLabel=667eea" alt="GitHub Streak Stats">
 
 </div>
 
@@ -217,7 +217,7 @@ Forked Express.js framework for learning and experimenting with web framework ar
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,50:667eea,100:f093fb&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,50:667eea,100:f093fb&height=120&section=footer" alt="Footer Wave">
 
 </div>
 
