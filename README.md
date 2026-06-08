@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=250&section=header&text=Dron%20Shrivastava&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=B.Tech%20Engineering%20|%20Full-Stack%20Developer&descAlignY=60&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=250&section=header&text=Dron%20Shrivastava&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=B.T[...]
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=667eea&center=true&vCenter=true&width=800&lines=🚀+Building+Digital+Solutions;💻+Full-Stack+Web+Developer;🎓+B.Tech+Student+%7C+Year+2;🔥+Python+%7C+JavaScript+%7C+Node.js)](https://github.com/Dron09Shrivastava)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=667eea&center=true&vCenter=true&width=800&lines=🚀+Building+Digital+Solutions;💻+Full-Stack+Web+Deve[...]
 
 </div>
 
@@ -99,7 +99,7 @@ Sophisticated QR code-based event management solution for tracking and managing 
 - ✅ Real-time attendance tracking
 - ✅ Event data management
 
-[🔗 View Repository](https://github.com/Dron09Shrivastava/event-qr-management-system)
+[🌐 Live Project](https://event-qr-management-system.onrender.com/) | [🔗 View Repository](https://github.com/Dron09Shrivastava/event-qr-management-system)
 
 </td>
 <td width="50%" align="center">
@@ -176,15 +176,15 @@ Forked Express.js framework for learning and experimenting with web framework ar
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dron09Shrivastava&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=ffffff&ring_color=667eea" alt="GitHub Stats" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=Dron09Shrivastava&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=f[...]
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dron09Shrivastava&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff" alt="Top Languages" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dron09Shrivastava&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff" a[...]
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Dron09Shrivastava&theme=tokyonight&hide_border=true&background=0d1117&stroke=667eea&ring=667eea&fire=ff6b6b&currStreakLabel=667eea" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Dron09Shrivastava&theme=tokyonight&hide_border=true&background=0d1117&stroke=667eea&ring=667eea&fire=ff6b6b&currStreakLabel=667eea"[...]
 
 </div>
 
