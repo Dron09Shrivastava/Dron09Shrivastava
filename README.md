@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=250&section=header&text=Dron%20Shrivastava&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer&descSize=22" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=250&section=header&text=Dron%20Shrivastava&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Ful[...] 
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=667eea&center=true&vCenter=true&width=800&lines=%F0%9F%9A%80+Building+Digital+Solutions;%F0%9F%92%BB+Full-Stack+Developer;%F0%9F%93%9A+Learning+Everyday)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=667eea&center=true&vCenter=true&width=800&lines=🚀+Building+Digital+Solutions;💻+Full-Stack+Web+Deve[...])
 
 </div>
 
@@ -14,21 +14,21 @@
 
 <div align="center">
 
-### 🌐 Connect With Me
+### 🌐 **Connect With Me**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com) 
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dron09Shrivastava) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-rho-five-f9e8aczpiq.vercel.app) 
-[![Email](https://img.shields.io/badge/Email-764ba2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dron09Shrivastava)
+[![Portfolio](https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-rho-five-f9e8aczpiq.vercel.app)
+[![Email](https://img.shields.io/badge/Email-764ba2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=Dron09Shrivastava&style=for-the-badge&color=667eea&label=PROFILE+VIEWS)](https://github.com/Dron09Shrivastava)
 
 </div>
 
 ---
 
-<div align="left">
+<div align="justify">
 
-### 👨‍💻 About Me
+### 👨‍💻 **About Me**
 
 ```yaml
 name      : Dron Shrivastava
@@ -44,78 +44,144 @@ fun_fact  : I turn ideas ☕ into elegant, functional code ✨
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ **Tech Stack**
 
 <div align="center">
 
-**Languages & Tools**
+**Languages**
 
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Frameworks & Libraries**
+**Frontend & Web**
 
-![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+**Backend & Tools**
+
+![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-%230078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
-
-### ⭐ Flagship Projects
-
-| 🎮 Tic-Tac-Toe (Advanced) | 🎫 Event QR System | 🏨 Hotel Management |
-|---|---:|---|
-| ```md
-### 🎮 Tic-Tac-Toe (Advanced)
-
-A modern, responsive Tic-Tac-Toe game with enhanced UI and AI opponent.
-
-**Highlights**
-- ✅ Responsive animations
-- ✅ AI opponent
-- ✅ Game replay
-
-[![Live Demo](https://img.shields.io/badge/Live--Demo-Visit-667eea?style=for-the-badge&logo=vercel&logoColor=white)](https://tic-tac-toe-advance-kappa.vercel.app)  
-[![Repo](https://img.shields.io/badge/Repo-GitHub-764ba2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dron09Shrivastava/Tic-Tac-Toe-advance)
-``` | ```md
-### 🎫 Event QR System
-
-QR code-based event management for tracking attendees.
-
-**Features**
-- ✅ QR generation
-- ✅ Live tracking
-- ✅ Data management
-
-[![Live Demo](https://img.shields.io/badge/Live--Demo-Visit-22c1c3?style=for-the-badge&logo=vercel&logoColor=white)](https://event-qr-management-system.onrender.com)  
-[![Repo](https://img.shields.io/badge/Repo-GitHub-764ba2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dron09Shrivastava/event-qr-management-system)
-``` | ```md
-### 🏨 Hotel Management
-
-Comprehensive hotel management platform (guest mgmt, booking, reservations).
-
-**Features**
-- ✅ Guest management
-- ✅ Room booking
-- ✅ Reservations
-
-[![Repo](https://img.shields.io/badge/Repo-GitHub-764ba2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dron09Shrivastava/Hotel_Management)
-``` |
-
----
-
-## 📊 GitHub Statistics
+## 🚀 **Featured Projects**
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Dron09Shrivastava&theme=tokyonight&hide_border=true&background=0d1117&stroke=667eea&ring=667eea&fire=ff6b6b&currStreakLabel=667eea" alt="streak" />
+### ⭐ **Flagship Projects**
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%" align="center">
+
+### 🎫 **Event QR Management System**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Backend](https://img.shields.io/badge/Backend-System-667eea?style=flat-square)
+
+Sophisticated QR code-based event management solution for tracking and managing event attendees.
+
+**Features:**
+- ✅ QR code generation & validation
+- ✅ Real-time attendance tracking
+- ✅ Event data management
+
+[🌐 Live Project](https://event-qr-management-system.onrender.com/) | [🔗 View Repository](https://github.com/Dron09Shrivastava/event-qr-management-system)
+
+</td>
+<td width="50%" align="center">
+
+### 🏨 **Hotel Management System**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Full_Stack](https://img.shields.io/badge/Full_Stack-Application-764ba2?style=flat-square)
+
+Comprehensive hotel management platform for booking, reservations, and room allocation.
+
+**Features:**
+- ✅ Guest management system
+- ✅ Room booking & allocation
+- ✅ Reservation tracking
+
+[🔗 View Repository](https://github.com/Dron09Shrivastava/Hotel_Management)
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### 💼 **Other Notable Projects**
+
+</div>
+
+<table align="center">
+<tr>
+<td width="33%" align="center">
+
+### 🌐 **Portfolio Website**
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+Stunning responsive portfolio showcasing all projects and professional presence.
+
+[🔗 Live Demo](https://portfolio-rho-five-f9e8aczpiq.vercel.app) | [📂 Repository](https://github.com/Dron09Shrivastava/Portfolio)
+
+</td>
+<td width="33%" align="center">
+
+### 🎲 **Lucky Game**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+Engaging gaming application with logical game mechanics and interactive gameplay.
+
+[🔗 View Repository](https://github.com/Dron09Shrivastava/Lucky_Game)
+
+</td>
+<td width="33%" align="center">
+
+### 🚀 **Express.js Study**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+Forked Express.js framework for learning and experimenting with web framework architecture.
+
+[🔗 View Repository](https://github.com/Dron09Shrivastava/express)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 **GitHub Statistics**
+
+<div align="center">
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Dron09Shrivastava&theme=tokyonight&hide_border=true&background=0d1117&stroke=667eea&ring=667eea&fire=ff6b6b&currStreakLabel=667eea"[...]
 
 </div>
 
 ---
 
-## 🎓 Learning & Growth
+## 🎓 **Learning & Growth**
 
 <div align="center">
 
@@ -130,11 +196,11 @@ Comprehensive hotel management platform (guest mgmt, booking, reservations).
 
 ---
 
-## 💡 What I Bring
+## 💡 **What I Bring**
 
 <div align="center">
 
-✨ **Clean Code Philosophy** | 🎯 **Problem Solving** | 🤝 **Team Player** | 📚 **Continuous Learner** | 🚀 **Innovation Focused**
+✨ **Clean Code Philosophy** | 🎯 **Problem Solving** | 🤝 **Team Player** | 📚 **Continuous Learner** | 🚀 **Innovation Focused"
 
 </div>
 
@@ -148,10 +214,11 @@ Comprehensive hotel management platform (guest mgmt, booking, reservations).
 
 <div align="center">
 
-### 🌟 Let's Build Something Amazing Together!
+### 🌟 **Let's Build Something Amazing Together!**
 
 *"Code is poetry, elegance is the goal, and impact is the measure."*
 
 [![GitHub](https://img.shields.io/badge/GitHub-Dron09Shrivastava-667eea?style=for-the-badge&logo=github)](https://github.com/Dron09Shrivastava)
+[![Star Repo](https://img.shields.io/badge/⭐_Star_This_Repo-764ba2?style=for-the-badge)](https://github.com/Dron09Shrivastava)
 
 </div>
