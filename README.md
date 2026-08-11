@@ -1,7 +1,7 @@
  
 <br/>
 
-<img src="./ai-avatar.png" alt="AI Avatar" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=250&section=header&text=Dron%20Shrivastava&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Ful[...]
 
 </div>
 
@@ -201,7 +201,7 @@ Forked Express.js framework for learning and experimenting with web framework ar
 
 <div align="center">
 
-✨ **Clean Code Philosophy** | 🎯 **Problem Solving** | 🤝 **Team Player** | 📚 **Continuous Learner** | 🚀 **Innovation Focused"
+✨ **Clean Code Philosophy** | 🎯 **Problem Solving** | 🤝 **Team Player** | 📚 **Continuous Learner** | 🚀 **Innovation Focused**
 
 </div>
 
