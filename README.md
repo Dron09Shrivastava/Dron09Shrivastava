@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=250&section=header&text=Dron%20Shrivastava&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Backend%20Enthusiast&descAlignY=65" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=250&section=header&text=Dron%20Shrivastava&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Backend%20Enthusiast&descAlignY=60&descAlign=50">
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=667eea&center=true&vCenter=true&width=800&lines=%F0%9F%9A%80+Building+Digital+Solutions;%F0%9F%92%BB+Full-Stack+Web+Developer;%F0%9F%8C%90+Open-Source+%7C+Learning)](https://github.com/Dron09Shrivastava)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=667eea&center=true&vCenter=true&width=800&lines=%F0%9F%9A%80+Building+Digital+Solutions;%F0%9F%92%BB+Full-Stack+Development;%F0%9F%93%A2+Open+Source+Enthusiast;%F0%9F%92%A1+Innovation+Driven+Developer)](https://github.com/Dron09Shrivastava)
 
 </div>
 
@@ -50,10 +50,11 @@ fun_fact  : I turn ideas ☕ into elegant, functional code ✨
 
 **Languages & Tools**
 
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+**Frameworks & Libraries**
 
-![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-%230078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black) ![Express](https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
 
 </div>
 
@@ -67,9 +68,9 @@ fun_fact  : I turn ideas ☕ into elegant, functional code ✨
 
 </div>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="33%" valign="top" align="center">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; padding: 20px; max-width: 1200px; margin: 0 auto;">
+
+<div style="border: 1px solid #667eea; border-radius: 8px; padding: 20px; text-align: center; background: #0d1117;">
 
 ### 🎮 Tic-Tac-Toe (Advanced)
 
@@ -79,13 +80,14 @@ A modern, responsive Tic-Tac-Toe game with enhanced UI, intelligent opponent log
 
 **Highlights:**
 - ✅ Responsive board with animations
-- ✅ Intelligent AI opponent (multiple difficulty levels)
+- ✅ Intelligent AI opponent
 - ✅ Game history & replay
 
 [🌐 Live Demo](https://tic-tac-toe-advance-kappa.vercel.app) | [🔗 Repository](https://github.com/Dron09Shrivastava/Tic-Tac-Toe-advance)
 
-    </td>
-    <td width="33%" valign="top" align="center">
+</div>
+
+<div style="border: 1px solid #667eea; border-radius: 8px; padding: 20px; text-align: center; background: #0d1117;">
 
 ### 🎫 Event QR Management System
 
@@ -100,8 +102,9 @@ Sophisticated QR code-based event management solution for tracking and managing 
 
 [🌐 Live Project](https://event-qr-management-system.onrender.com/) | [🔗 Repository](https://github.com/Dron09Shrivastava/event-qr-management-system)
 
-    </td>
-    <td width="33%" valign="top" align="center">
+</div>
+
+<div style="border: 1px solid #667eea; border-radius: 8px; padding: 20px; text-align: center; background: #0d1117;">
 
 ### 🏨 Hotel Management System
 
@@ -116,21 +119,17 @@ Comprehensive hotel management platform for booking, reservations, and room allo
 
 [🔗 Repository](https://github.com/Dron09Shrivastava/Hotel_Management)
 
-    </td>
-  </tr>
-</table>
-
----
-
-<div align="center">
-
-### 💼 Other Notable Projects
+</div>
 
 </div>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="33%" valign="top" align="center">
+---
+
+## 💼 Other Notable Projects
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; padding: 20px; max-width: 1200px; margin: 0 auto;">
+
+<div style="border: 1px solid #764ba2; border-radius: 8px; padding: 20px; text-align: center; background: #0d1117;">
 
 ### 🌐 Portfolio Website
 
@@ -140,8 +139,9 @@ Stunning responsive portfolio showcasing all projects and professional presence.
 
 [🔗 Live Demo](https://portfolio-rho-five-f9e8aczpiq.vercel.app) | [📂 Repository](https://github.com/Dron09Shrivastava/Portfolio)
 
-    </td>
-    <td width="33%" valign="top" align="center">
+</div>
+
+<div style="border: 1px solid #764ba2; border-radius: 8px; padding: 20px; text-align: center; background: #0d1117;">
 
 ### 🎲 Lucky Game
 
@@ -151,8 +151,9 @@ Engaging gaming application with logical game mechanics and interactive gameplay
 
 [🔗 Repository](https://github.com/Dron09Shrivastava/Lucky_Game)
 
-    </td>
-    <td width="33%" valign="top" align="center">
+</div>
+
+<div style="border: 1px solid #764ba2; border-radius: 8px; padding: 20px; text-align: center; background: #0d1117;">
 
 ### 🚀 Express.js Study
 
@@ -162,9 +163,9 @@ Forked Express.js framework for learning and experimenting with web framework ar
 
 [🔗 Repository](https://github.com/Dron09Shrivastava/express)
 
-    </td>
-  </tr>
-</table>
+</div>
+
+</div>
 
 ---
 
@@ -172,7 +173,7 @@ Forked Express.js framework for learning and experimenting with web framework ar
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Dron09Shrivastava&theme=tokyonight&hide_border=true&background=0d1117&stroke=667eea&ring=667eea&fire=ff6b6b&currStreakLabel=667eea" alt="streak-stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Dron09Shrivastava&theme=tokyonight&hide_border=true&background=0d1117&stroke=667eea&ring=667eea&fire=ff6b6b&currStreakLabel=667eea" alt="GitHub Streak Stats">
 
 </div>
 
@@ -215,6 +216,6 @@ Forked Express.js framework for learning and experimenting with web framework ar
 
 *"Code is poetry, elegance is the goal, and impact is the measure."*
 
-[![GitHub](https://img.shields.io/badge/GitHub-Dron09Shrivastava-667eea?style=for-the-badge&logo=github)](https://github.com/Dron09Shrivastava) [![Star Repo](https://img.shields.io/badge/%E2%AD%90_Star_This_Repo-764ba2?style=for-the-badge)](https://github.com/Dron09Shrivastava)
+[![GitHub](https://img.shields.io/badge/GitHub-Dron09Shrivastava-667eea?style=for-the-badge&logo=github)](https://github.com/Dron09Shrivastava) [![Star Repo](https://img.shields.io/badge/%E2%AD%90-Star%20Repo-yellow?style=for-the-badge)](https://github.com/Dron09Shrivastava?tab=repositories)
 
 </div>
