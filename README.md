@@ -1,13 +1,13 @@
-
+ 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=250&section=header&text=Dron%20Shrivastava&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer" alt="Dron Shrivastava Banner" />
+<img src="./ai-avatar.png" alt="AI Avatar" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=667eea&center=true&vCenter=true&width=800&lines=🚀+Building+Digital+Solutions;💻+Full-Stack+Web+Developer;⚙️+Systems+&+APIs)](https://github.com/Dron09Shrivastava)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=667eea&center=true&vCenter=true&width=800&lines=🚀+Building+Digital+Solutions;💻+Full-Stack+Web+Dev[...]
 
 </div>
 
@@ -201,7 +201,7 @@ Forked Express.js framework for learning and experimenting with web framework ar
 
 <div align="center">
 
-✨ **Clean Code Philosophy** | 🎯 **Problem Solving** | 🤝 **Team Player** | 📚 **Continuous Learner** | 🚀 **Innovation Focused**
+✨ **Clean Code Philosophy** | 🎯 **Problem Solving** | 🤝 **Team Player** | 📚 **Continuous Learner** | 🚀 **Innovation Focused"
 
 </div>
 
