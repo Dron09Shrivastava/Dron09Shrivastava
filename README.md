@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=250&section=header&text=Dron%20Shrivastava&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20|%20Backend%20Enthusiast&descAlignY=55">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=250&section=header&text=Dron%20Shrivastava&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Ful[...]">
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=667eea&center=true&vCenter=true&width=800&lines=🚀+Building+Digital+Solutions;💻+Full-Stack+Web+Developer;🎯+Turning+Ideas+Into+Code;🔥+Passionate+About+Technology)](https://github.com/Dron09Shrivastava)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=667eea&center=true&vCenter=true&width=800&lines=🚀+Building+Digital+Solutions;💻+Full-Stack+Web+Deve[...])
 
 </div>
 
@@ -163,6 +163,26 @@ Forked Express.js framework for learning and experimenting with web framework ar
 
 </td>
 </tr>
+
+<tr>
+<td width="100%" align="center">
+
+### 🎮 **Tic-Tac-Toe (Advanced)**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Frontend](https://img.shields.io/badge/Frontend-Interactive-667eea?style=flat-square)
+
+A modern, responsive Tic-Tac-Toe game with enhanced UI, intelligent opponent logic, and replay features.
+
+**Highlights:**
+- ✅ Responsive board with animations
+- ✅ Intelligent AI opponent (multiple difficulty levels)
+- ✅ Game history & replay
+
+[🌐 Live Demo](https://tic-tac-toe-advance-kappa.vercel.app) | [🔗 View Repository](https://github.com/Dron09Shrivastava/Tic-Tac-Toe-advance)
+
+</td>
+</tr>
 </table>
 
 ---
@@ -175,7 +195,7 @@ Forked Express.js framework for learning and experimenting with web framework ar
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Dron09Shrivastava&theme=tokyonight&hide_border=true&background=0d1117&stroke=667eea&ring=667eea&fire=ff6b6b&currStreakLabel=667eea" alt="GitHub Streak Stats">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Dron09Shrivastava&theme=tokyonight&hide_border=true&background=0d1117&stroke=667eea&ring=667eea&fire=ff6b6b&currStreakLabel=667eea"[...]>
 
 </div>
 
