@@ -1,12 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=250&section=header&text=Dron%20Shrivastava&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Ful[...] 
+# Dron Shrivastava
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=250&section=header&text=Dron%20Shrivastava&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer" alt="Dron Shrivastava Banner" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=667eea&center=true&vCenter=true&width=800&lines=🚀+Building+Digital+Solutions;💻+Full-Stack+Web+Deve[...])
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=667eea&center=true&vCenter=true&width=800&lines=🚀+Building+Digital+Solutions;💻+Full-Stack+Web+Developer;⚙️+Systems+&+APIs)](https://github.com/Dron09Shrivastava)
 
 </div>
 
@@ -171,11 +175,11 @@ Forked Express.js framework for learning and experimenting with web framework ar
 
 <div align="center">
 
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dron09Shrivastava&theme=tokyonight&hide_border=true)
 
-<div align="center">
+<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Dron09Shrivastava&theme=tokyonight&hide_border=true&background=0d1117&stroke=667eea&ring=667eea&fire=ff6b6b&currStreakLabel=667eea"[...]
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dron09Shrivastava&show_icons=true&theme=tokyonight)
 
 </div>
 
@@ -200,7 +204,7 @@ Forked Express.js framework for learning and experimenting with web framework ar
 
 <div align="center">
 
-✨ **Clean Code Philosophy** | 🎯 **Problem Solving** | 🤝 **Team Player** | 📚 **Continuous Learner** | 🚀 **Innovation Focused"
+✨ **Clean Code Philosophy** | 🎯 **Problem Solving** | 🤝 **Team Player** | 📚 **Continuous Learner** | 🚀 **Innovation Focused**
 
 </div>
 
