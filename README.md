@@ -62,41 +62,46 @@ fun_fact  : I turn ideas ☕ into elegant, functional code ✨
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
 ### ⭐ Flagship Projects
 
-</div>
-
-<!-- Pure Markdown table (no raw HTML tags) with compact cells and clickable badge buttons -->
-
 | 🎮 Tic-Tac-Toe (Advanced) | 🎫 Event QR System | 🏨 Hotel Management |
-|---|---|---|
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)<br>
-A modern, responsive Tic-Tac-Toe game with enhanced UI and AI opponent.<br>
-[![Live Demo](https://img.shields.io/badge/Live--Demo-Visit-667eea?style=for-the-badge&logo=vercel&logoColor=white)](https://tic-tac-toe-advance-kappa.vercel.app) [![Repo](https://img.shields.io/badge/Repo-GitHub-764ba2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dron09Shrivastava/Tic-Tac-Toe-advance) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)<br>
-QR code-based event management for tracking attendees.<br>
-[![Live Demo](https://img.shields.io/badge/Live--Demo-Visit-22c1c3?style=for-the-badge&logo=vercel&logoColor=white)](https://event-qr-management-system.onrender.com/) [![Repo](https://img.shields.io/badge/Repo-GitHub-764ba2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dron09Shrivastava/event-qr-management-system) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)<br>
-Comprehensive hotel management platform (guest mgmt, booking, reservations).<br>
+|---|---:|---|
+| ```md
+### 🎮 Tic-Tac-Toe (Advanced)
+
+A modern, responsive Tic-Tac-Toe game with enhanced UI and AI opponent.
+
+**Highlights**
+- ✅ Responsive animations
+- ✅ AI opponent
+- ✅ Game replay
+
+[![Live Demo](https://img.shields.io/badge/Live--Demo-Visit-667eea?style=for-the-badge&logo=vercel&logoColor=white)](https://tic-tac-toe-advance-kappa.vercel.app)  
+[![Repo](https://img.shields.io/badge/Repo-GitHub-764ba2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dron09Shrivastava/Tic-Tac-Toe-advance)
+``` | ```md
+### 🎫 Event QR System
+
+QR code-based event management for tracking attendees.
+
+**Features**
+- ✅ QR generation
+- ✅ Live tracking
+- ✅ Data management
+
+[![Live Demo](https://img.shields.io/badge/Live--Demo-Visit-22c1c3?style=for-the-badge&logo=vercel&logoColor=white)](https://event-qr-management-system.onrender.com)  
+[![Repo](https://img.shields.io/badge/Repo-GitHub-764ba2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dron09Shrivastava/event-qr-management-system)
+``` | ```md
+### 🏨 Hotel Management
+
+Comprehensive hotel management platform (guest mgmt, booking, reservations).
+
+**Features**
+- ✅ Guest management
+- ✅ Room booking
+- ✅ Reservations
+
 [![Repo](https://img.shields.io/badge/Repo-GitHub-764ba2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dron09Shrivastava/Hotel_Management)
-
----
-
-## 💼 Other Notable Projects
-
-<div align="center">
-
-| 🌐 Portfolio Website | 🎲 Lucky Game | 🚀 Express.js Study |
-|---|---|---|
-| ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)<br>
-Responsive portfolio showcasing projects.<br>
-[![Live Demo](https://img.shields.io/badge/Live--Demo-Visit-667eea?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-rho-five-f9e8aczpiq.vercel.app) [![Repo](https://img.shields.io/badge/Repo-GitHub-764ba2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dron09Shrivastava/Portfolio) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)<br>
-Gaming application with interactive gameplay.<br>
-[![Repo](https://img.shields.io/badge/Repo-GitHub-764ba2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dron09Shrivastava/Lucky_Game) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)<br>
-Learning Express.js framework architecture.<br>
-[![Repo](https://img.shields.io/badge/Repo-GitHub-764ba2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dron09Shrivastava/express)
-
-</div>
+``` |
 
 ---
 
