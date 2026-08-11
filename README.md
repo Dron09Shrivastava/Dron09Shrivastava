@@ -68,54 +68,54 @@ fun_fact  : I turn ideas ☕ into elegant, functional code ✨
 
 </div>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; padding: 20px; max-width: 1200px; margin: 0 auto;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 20px;">
 
-<div style="border: 1px solid #667eea; border-radius: 8px; padding: 20px; text-align: center; background: #0d1117;">
+<div style="border: 2px solid #667eea; border-radius: 12px; padding: 25px; width: 280px; text-align: center; background: #0d1117; box-shadow: 0 4px 6px rgba(102, 126, 234, 0.1);">
 
 ### 🎮 Tic-Tac-Toe (Advanced)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Frontend](https://img.shields.io/badge/Frontend-Interactive-667eea?style=flat-square)
 
-A modern, responsive Tic-Tac-Toe game with enhanced UI, intelligent opponent logic, and replay features.
+A modern, responsive Tic-Tac-Toe game with enhanced UI and AI opponent.
 
 **Highlights:**
-- ✅ Responsive board with animations
-- ✅ Intelligent AI opponent
-- ✅ Game history & replay
+- ✅ Responsive animations
+- ✅ AI opponent
+- ✅ Game replay
 
-[🌐 Live Demo](https://tic-tac-toe-advance-kappa.vercel.app) | [🔗 Repository](https://github.com/Dron09Shrivastava/Tic-Tac-Toe-advance)
+[🌐 Live Demo](https://tic-tac-toe-advance-kappa.vercel.app) | [🔗 Repo](https://github.com/Dron09Shrivastava/Tic-Tac-Toe-advance)
 
 </div>
 
-<div style="border: 1px solid #667eea; border-radius: 8px; padding: 20px; text-align: center; background: #0d1117;">
+<div style="border: 2px solid #667eea; border-radius: 12px; padding: 25px; width: 280px; text-align: center; background: #0d1117; box-shadow: 0 4px 6px rgba(102, 126, 234, 0.1);">
 
-### 🎫 Event QR Management System
+### 🎫 Event QR System
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Backend](https://img.shields.io/badge/Backend-System-667eea?style=flat-square)
 
-Sophisticated QR code-based event management solution for tracking and managing event attendees.
+QR code-based event management for tracking attendees.
 
 **Features:**
-- ✅ QR code generation & validation
-- ✅ Real-time attendance tracking
-- ✅ Event data management
+- ✅ QR generation
+- ✅ Live tracking
+- ✅ Data management
 
-[🌐 Live Project](https://event-qr-management-system.onrender.com/) | [🔗 Repository](https://github.com/Dron09Shrivastava/event-qr-management-system)
+[🌐 Live](https://event-qr-management-system.onrender.com/) | [🔗 Repo](https://github.com/Dron09Shrivastava/event-qr-management-system)
 
 </div>
 
-<div style="border: 1px solid #667eea; border-radius: 8px; padding: 20px; text-align: center; background: #0d1117;">
+<div style="border: 2px solid #667eea; border-radius: 12px; padding: 25px; width: 280px; text-align: center; background: #0d1117; box-shadow: 0 4px 6px rgba(102, 126, 234, 0.1);">
 
-### 🏨 Hotel Management System
+### 🏨 Hotel Management
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Full_Stack](https://img.shields.io/badge/Full_Stack-Application-764ba2?style=flat-square)
 
-Comprehensive hotel management platform for booking, reservations, and room allocation.
+Comprehensive hotel management platform.
 
 **Features:**
-- ✅ Guest management system
-- ✅ Room booking & allocation
-- ✅ Reservation tracking
+- ✅ Guest management
+- ✅ Room booking
+- ✅ Reservations
 
 [🔗 Repository](https://github.com/Dron09Shrivastava/Hotel_Management)
 
@@ -127,39 +127,39 @@ Comprehensive hotel management platform for booking, reservations, and room allo
 
 ## 💼 Other Notable Projects
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; padding: 20px; max-width: 1200px; margin: 0 auto;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 20px;">
 
-<div style="border: 1px solid #764ba2; border-radius: 8px; padding: 20px; text-align: center; background: #0d1117;">
+<div style="border: 2px solid #764ba2; border-radius: 12px; padding: 25px; width: 280px; text-align: center; background: #0d1117; box-shadow: 0 4px 6px rgba(118, 75, 162, 0.1);">
 
 ### 🌐 Portfolio Website
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-Stunning responsive portfolio showcasing all projects and professional presence.
+Responsive portfolio showcasing projects.
 
-[🔗 Live Demo](https://portfolio-rho-five-f9e8aczpiq.vercel.app) | [📂 Repository](https://github.com/Dron09Shrivastava/Portfolio)
+[🔗 Live Demo](https://portfolio-rho-five-f9e8aczpiq.vercel.app) | [📂 Repo](https://github.com/Dron09Shrivastava/Portfolio)
 
 </div>
 
-<div style="border: 1px solid #764ba2; border-radius: 8px; padding: 20px; text-align: center; background: #0d1117;">
+<div style="border: 2px solid #764ba2; border-radius: 12px; padding: 25px; width: 280px; text-align: center; background: #0d1117; box-shadow: 0 4px 6px rgba(118, 75, 162, 0.1);">
 
 ### 🎲 Lucky Game
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-Engaging gaming application with logical game mechanics and interactive gameplay.
+Gaming application with interactive gameplay.
 
 [🔗 Repository](https://github.com/Dron09Shrivastava/Lucky_Game)
 
 </div>
 
-<div style="border: 1px solid #764ba2; border-radius: 8px; padding: 20px; text-align: center; background: #0d1117;">
+<div style="border: 2px solid #764ba2; border-radius: 12px; padding: 25px; width: 280px; text-align: center; background: #0d1117; box-shadow: 0 4px 6px rgba(118, 75, 162, 0.1);">
 
 ### 🚀 Express.js Study
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-Forked Express.js framework for learning and experimenting with web framework architecture.
+Learning Express.js framework architecture.
 
 [🔗 Repository](https://github.com/Dron09Shrivastava/express)
 
